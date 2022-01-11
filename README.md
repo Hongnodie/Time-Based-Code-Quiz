@@ -31,6 +31,6 @@ THEN I can save my initials and my score
 
 ## Screenshot
 
-![Startgame](./assets/images/Startgame.png)
+![StartGame](./assets/images/StartGame.png)
 ![Answerpage](./assets/images/AnswerPage.png)
 ![ScoreTable](./assets/images/ScoreTable.png)
